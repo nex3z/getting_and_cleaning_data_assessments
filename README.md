@@ -14,7 +14,7 @@ You should create one R script called run_analysis.R that does the following.
 
 1. Download data from
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
-and put the  ```UCI HAR Dataset``` folder at the same directory of ```run_analysis.R```.
+unzip it and put the  ```UCI HAR Dataset``` folder at the same directory of ```run_analysis.R```.
 2. Run ```run_analysis.R```.
 
 ## Dependencies
